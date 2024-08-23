@@ -1,0 +1,36 @@
+snow : 00, achromatic, AS, white, ffffff
+blood : 01,  achromatic, AB, red, ff00ff
+virid : 02,  chromatic, CV, green, ff0000 
+marine : 03,  chromatic, CM, blue, 0000ff
+straw : 04,  chromatic, CS, yello, ******
+ink : 05,  chromatic, CS, black, 000000
+nobel : 06,  chromatic, CS, purple, ******
+amber : 07,  chromatic, CS, orange,******
+peach : 08,  chromatic, CS, pink,******
+coffee : 09,  chromatic, CS, brown,******
+asymmetrical: 10,  achromatic, AA, grey area,dddddd
+bootlegged: 11, achromatic, BA, chartreuse, dfff11
+criminal : 12, achromatic, CA, glop02, ******
+defunct : 13, achromatic, DA, glop03, ******
+execrable : 14, achromatic, EA, glop04, ******
+fallacious : 15, achromatic, FA, glop05, ******
+grotesque : 16, achromatic, GA, glop05, ******
+horrible : 17, achromatic, GA, glop05, ******
+irrational : 18, achromatic, IA, glop05, ******
+jejune : 19, achromatic, JA, glop09, ******
+kleptomanical : 20, achromatic, KA, glop10 , ******
+loathsome : 21, achromatic, LA, glop11 , ******
+mordant : 22, achromatic, MA, glop12 , ******
+nasty : 23, achromatic, NA, glop13 , ******
+odious : 24, achromatic, OA, glop14 , ******
+profane : 25, achromatic, PA, glop15 , ******
+quixotic : 25, achromatic, QA, glop16 , ******
+rapacious : 25, achromatic, RA, glop17 , ******
+slanderous : 25, achromatic, SA, glop18 , ******
+tyrannical : 25, achromatic, TA, glop19 , ******
+unborn : 30, achromatic, UA, glop20 , ******
+vehement : 31, achromatic, VA, glop21 , ******
+worthless : 31, achromatic, WA, glop22 , ******
+xenophobic : 31, achromatic, XA, glop23 , ******
+yucky : 31, achromatic, XA, glop24 , ******
+zeronic : 34, achromatic, XA, glop25, ******

@@ -1,0 +1,258 @@
+emotion: mad, sad, scared, joyful, powerful, peaceful
+
+mad: hurt, hostile, angry, selfish, hateful, critical
+
+hurt: distant, bitter, withdrawn
+hostile: sarcastic, annoyance, desperation, intolerance
+angry: frustrated, resentment, enraged,  wrath, ire
+selfish: jealous, covetousness
+hateful: irritated, contempt, aggravation, frenzy, insanity, malevolence, detestation,loathing
+critical: skeptical, indignation, fury, frenzy
+
+distant : hurt, tyrannical
+bitter : hurt, tyrannical
+withdrawn : hurt, tyrannical
+sarcastic :hostile, unborn
+annoyance :  hostile, unborn
+desperation : hostile, unborn
+intolerance :  hostile,unborn
+frustrated : angry, xenophobic
+resentment : angry, xenophobic
+enraged : angry, xenophobic
+wrath : angry, xenophobic
+ire : angry, xenophobic
+jealous : selfish,worthless
+covetousness :  selfish, worthless
+irritated : hateful, yucky
+contempt : hateful, yucky
+aggravation :  hateful,
+frenzy :  hateful,zeronic
+insanity : hateful, zeronic
+malevolence : hateful, zeronic
+detestation : hateful, zeronic
+loathing : hateful, zeronic
+skeptical : critical, vehement
+indignation : critical, vehement
+fury : critical, yucky
+frenzy : critical, yucky
+
+---
+
+sad: guilty, ashamed, depressed, lonely, bored, tired
+
+guilty: remorseful, regret
+ashamed: stupid, humiliation, worthlessness, embarrassed
+depressed: inferior, melancholy, despair, sorrow, grief, misery, gloom
+lonely: isolated, neglect, abandonment, invisible, disconnected, void, longing, nostalgia
+bored: apathetic, tedium, restlessness, discontent
+tired: sleepy, fatigue, lethargy, exhaustion
+
+remorseful: guilty, jejune
+regret: guilty, jejune
+stupid: ashamed, irrational,
+humiliation: ashamed, irrational
+worthlessness: ashamed, irrational
+embarrassed: ashamed, irrational
+inferior: inferior, horrible
+melancholy: inferior, horrible
+despair: inferior, horrible
+sorrow: inferior, horrible
+grief:  inferior, horrible
+misery: inferior, grotesque
+gloom: inferior, grotesque
+isolated: lonely, criminal 
+neglect:  lonely, criminal
+abandonment:  lonely, execrable
+invisible: lonely, execrable
+disconnected: lonely, criminal
+void: lonely, defunct
+longing: lonely,  bootlegged
+nostalgia: lonely, bootlegged 
+apathetic: bored, fallacious
+tedium:  bored, fallacious
+restlessness: bored, defunct
+discontent:bored, defunct
+sleepy: tired, asymmetrical
+fatigue: tired, asymmetrical
+lethargy: tired, asymmetrical
+exhaustion: tired, asymmetrical
+
+---
+
+scared: confused, rejected, helpless, submissive, insecure, anxious
+
+confused: bewildered, uncertainty
+rejected: discouraged, defensive
+helpless: insignificant, hopeless, vulnerability, discouraged
+submissive: inadequate, insecurity, surrender, powerlessness
+insecure: embarrassed, unease, alarm, anguish, foreboding, terror, discomfort, disquiet, suspicion, agitation, self doubt, unease
+anxious: overwhelmed, nervousness, apprehension, panic, dread, anxiety, paranoia 
+
+bewildered: confused, quixotic
+uncertainty: confused, quixotic
+discouraged: rejected, slanderous
+defensive: rejected, slanderous
+insignificant: helpless, rapacious
+hopeless: helpless, rapacious
+vulnerability: helpless, rapacious
+discouraged: helpless, rapacious
+inadequate: submissive, profane
+insecurity:submissive, profane
+surrender:submissive,profane
+powerlessness: submissive, profane
+embarrassed: insecure, odious
+unease: insecure, odious
+alarm:  insecure, odious
+anguish:  insecure, odious
+foreboding: insecure, odious
+terror: insecure, odious
+discomfort: insecure, nasty
+disquiet: insecure, nasty
+suspicion: insecure, nasty
+agitation: insecure, mordant
+self doubt: insecure, mordant
+unease: insecure, mordant
+overwhelmed: anxious, kleptomanical
+nervousness: anxious, kleptomanical
+apprehension: anxious, kleptomanical
+panic: anxious, kleptomanical
+dread: anxious,loathsome
+anxiety: anxious, loathsome
+paranoia:anxious, loathsome
+
+---
+
+joyful: excited, sensuous, energetic, cheerful, creative, hopeful
+
+excited: daring, delight, bliss, thrill, jubilation, enthusiasm
+sensuous: fascinating, rapture, passion, elation, ecstasy, delight, euphoria, satisfaction
+energetic: stimulating, vigor, motivated, elated, vitality, zeal, exhilaration
+cheerful: positivity, gratitude, jubilation, happiness
+creative: playful, inspiration, wonder, serendipity, amusement, curiosity, empathy
+hopeful: optimistic, contentment, anticipation, fulfillment
+
+daring : excited, marine
+delight : excited, marine
+bliss : excited, marine
+thrill : excited, marine
+jubilation : excited, marine
+enthusiasm : excited, marine
+fascinating : sensuous,  marine
+rapture :  sensuous, coffee
+passion : sensuous, coffee
+elation : sensuous, coffee
+ecstasy :sensuous, coffee
+delight : sensuous, coffee
+euphoria :  sensuous, coffee
+satisfaction :sensuous, coffee
+stimulating : energetic, amber
+enthusiasm : energetic, amber
+vigor : energetic, amber
+motivated :  energetic, amber
+elated :  energetic, amber
+vitality : energetic, amber
+zeal : energetic, amber
+exhilaration : cheerful, nobel 
+positivity : cheerful, nobel
+gratitude :  cheerful, nobel
+jubilation :  cheerful, nobel
+happiness :cheerful, nobel
+playful : creative, ink
+inspiration : creative, ink
+enthusiasm : creative, ink
+wonder :  creative, ink
+serendipity :  creative, ink
+amusement : creative, ink
+curiosity : creative, ink
+empathy : creative, ink
+optimistic : hopeful, virid
+contentment :  hopeful, virid
+anticipation : hopeful, virid
+fulfillment :hopeful, virid
+
+---
+
+powerful: aware, proud, respected, appreciated, important, faithful
+
+aware : surprised, bravery, presence
+proud : successful, vanity, conceit, dominance, ambition, hubris, supremacy, assertiveness, eloquence, mastery, commanding, triumphant, authority
+respected : worthwhile, control, influence, successful, self assurance, leadership, reverence, honor, esteem, loyalty, trust
+appreciated : valuable, admiration, encouraged
+important : discerning, influence
+faithful : confident, determination, resilience
+
+surprised : aware , peach
+bravery :  aware, blood
+presence : aware, peach
+successful : proud , peach 
+vanity :  proud, peach
+conceit :  proud, peach
+dominance : proud , peach,
+ambition : proud, peach
+hubris : proud, peach
+supremacy : proud, peach
+assertiveness : proud, peach
+eloquence : proud, peach
+mastery : proud, blood
+commanding : proud, blood
+triumphant : proud, blood
+authority :proud, blood
+worthwhile : respected , blood
+control : respected, peach
+influence : respected, peach
+successful : respected, peach
+self assurance : respected, peach
+leadership : respected, blood
+reverence : respected, blood
+honor : respected, blood
+esteem : respected, blood
+loyalty : respected, blood
+trust : respected, blood
+valuable : appreciated, blood
+admiration : appreciated, blood
+encouraged : appreciated, blood
+discerning : important, blood
+influence : important, blood
+confident : faithful , blood
+determination : faithful, blood
+resilience : faithful, blood
+---
+
+peaceful: content, thoughtful, intimate, loving, trusting, nurturing
+
+content: relaxed, calm, fulfilled, serenity, tranquility, still, warmth, harmony, comfortable
+thoughtful: pensive, mindful, kind, patient, understanding
+intimate: responsive, gentleness
+loving: serene, compassionate, appreciative, connected
+trusting: secure, reliable, open, dependable, safe
+nurturing: thankful, empathic, forgiving, supporting
+
+relaxed: content, straw
+calm: content, straw
+fulfilled: content, straw
+serenity: content, straw
+tranquility: content, straw
+still: content, straw
+warmth: content, straw
+harmony: content, straw
+comfortable:content, straw
+pensive : thoughtful, straw
+mindful : thoughtful, straw
+kind : thoughtful, straw
+patient : thoughtful, straw
+understanding : thoughtful, straw
+responsive : intimate, straw
+gentleness : intimate, straw
+serene : loving, straw
+compassionate : loving, straw
+appreciative : loving, straw
+connected :loving, straw
+secure : trusting, straw
+reliable : trusting, straw
+open : trusting, straw
+dependable : trusting, straw
+safe : trusting, straw
+thankful : nurturing, straw 
+empathic : nurturing, straw
+forgiving :  nurturing, straw
+supporting : nurturing, straw
